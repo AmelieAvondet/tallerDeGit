@@ -1,5 +1,5 @@
 # git
-
+hola
 git es una herramienta para la gestion de versiones de archivos. Esto quiere decir que nos facilita el versionado de nuestros archivos, permitiéndonos entre otras cosas:
 
  1. entender cual es la última versión de un archivo
